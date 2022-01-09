@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrjCsRemaxBusLayer.clsEmployee">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAEAAABQAABIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsAdmin">
+    <Position X="0.5" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAACEAQAAAAAAAAgAAAAIAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsAgent">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Agent.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="clsListHouse" />
+      <Property Name="clsListClient" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsClient">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAQAgAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsBuyer">
+    <Position X="5.25" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsSeller">
+    <Position X="4.75" Y="6.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAACAAAAAAAAAAAAAAAAABAAIAAAAAAAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsHouse">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAAAAAAAAAEAAABQAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsCompany">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAEABRYAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsListAgent">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAAAAAAAAAABAEIAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>clsListAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsListClient">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAAAAAAAAAAAAEIAEAAAAAQAAEAAAA=</HashCode>
+      <FileName>clsListClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjCsRemaxBusLayer.clsListHouse">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACBAAAAAAAAAAAAEIAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>clsListHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

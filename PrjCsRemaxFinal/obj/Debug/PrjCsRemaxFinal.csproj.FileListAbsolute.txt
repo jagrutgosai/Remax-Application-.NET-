@@ -1,0 +1,15 @@
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\bin\Debug\PrjCsRemaxFinal.exe.config
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\bin\Debug\PrjCsRemaxFinal.exe
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\bin\Debug\PrjCsRemaxFinal.pdb
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.csproj.AssemblyReference.cache
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Remax.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Properties.Resources.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.csproj.GenerateResource.cache
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.csproj.CoreCompileInputs.cache
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.exe
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.pdb
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Forms.frmUserVerification.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Forms.frmAdmin.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Forms.frmBuyer.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Forms.frmSeller.resources
+C:\Users\jagua\source\repos\PrjCsRemaxFinal\PrjCsRemaxFinal\obj\Debug\PrjCsRemaxFinal.Forms.frmAgent.resources
